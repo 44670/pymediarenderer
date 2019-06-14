@@ -1,2 +1,2 @@
 # pymediarenderer
-Quick and dirty media renderer implementation in single python file.
+Quick and dirty DLNA media renderer implementation.
